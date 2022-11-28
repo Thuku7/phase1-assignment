@@ -6,6 +6,8 @@ JAVASCRIPT
 
 
 Setup Instructions and Installation
+
+
 Navigate to my github page and respective repo.
 Click on the fork button to copy the remote project
 once copied click on the code button and copy the ssh key
