@@ -16,7 +16,7 @@ function speedLimitToken(userInput) {
     result = "Ok";
   }
 
-  return result
+  return result;
 
 }
 

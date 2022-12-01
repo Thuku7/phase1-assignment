@@ -22,7 +22,7 @@ function getGrade(){
   } else if(userMarks >= 40) {                // checks if inpit is more or equal to 49
     result = "D";
   } else {                                    // checks for user input less than 40
-    result = "E"
+    result = "E";
   }
 
   return result;
