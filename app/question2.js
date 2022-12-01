@@ -20,3 +20,6 @@ function speedLimitToken(userInput) {
 
 }
 
+
+console.log(speedLimitToken(120));
+

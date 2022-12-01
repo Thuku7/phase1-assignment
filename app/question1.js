@@ -3,10 +3,13 @@
 
 //function
 
-function getGrade(){
+
+
+
+function getGrade(marks){
   // get user input
-  let userMarks = parseInt(prompt('Input your marks'));
-  //initialize an empty variable to hold the result
+  let userMarks = parseInt(marks);
+  //initialize an empty variable to hold the resultgetGrade()
   let result;
 
   // condition step1 check marks isnt more than 100
@@ -26,7 +29,17 @@ function getGrade(){
   }
 
   return result;
+
+  
  
 
 }
+
+
+
+
+console.log(getGrade(78))
+
+
+
 
