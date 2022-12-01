@@ -18,5 +18,5 @@ function speedLimitToken(userInput) {
 
   return result
 
-} 
+}
 
